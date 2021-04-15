@@ -130,3 +130,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://terrific-chili-87d45.netlify.app'
